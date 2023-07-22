@@ -21,7 +21,7 @@ Task Execution: The script in this repository demonstrates the execution of vari
 
 - Task 4: Get the last email received from Austin Belcak. Find a suitable gif that matches the email's intent and send it to the i-made-this channel in the dbt slack.
 
-- Task 5: Create a tweet saying "langchain + zapier is great". Draft a professional email (up to 40 words) to allansema94@gmail.com, sharing the tweet with a personalized message.
+- Task 5: Create a tweet saying "langchain + zapier is great". Draft a professional email (up to 40 words) to another gmail.com, sharing the tweet with a personalized message.
 
 ### Project Demonstration:
 Due to the nature of the language model and the integration with Zapier, a live demo or screenshots may not be available in this repository. However, I am more than willing to provide a detailed walkthrough during discussions or interviews.
